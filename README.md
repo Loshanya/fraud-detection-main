@@ -138,6 +138,6 @@ fraud-detection/
 
 ## Author
 
-**Akhil Ravipati**  
+**Loshanya Sasapu**  
 Final Year B.Tech, Civil Engineering  
 Indian Institute of Technology (IIT) Guwahati
